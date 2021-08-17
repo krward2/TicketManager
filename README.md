@@ -10,7 +10,7 @@
 -->
 
 
-Template PHP files to be used by the CS4342 students at UTEP during the Spring and Fall 2020 semester. These files will provide th basic elements to create a web interface to access the DB for the course project using PhP.
+Template PHP files to be used by the CS4342 students at UTEP during the Spring and Fall 2020 semester. These files will provide the basic elements to create a web interface to access the DB for the course project using PHP.
 
 ---
 ## Config File
