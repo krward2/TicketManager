@@ -20,3 +20,4 @@ Here you will find the configuration settings for the database connections. You 
 - *username* this should be the utep username of the person with the role or interface or reports lead from your team.
 - *password* this should be a password agreed upon by your team so that your team can make necessary changes. This password is the same that your teammate from above uses to login and interact with mySQL shell. Make sure the password is not the same as other password used by any of your teammates.
 
+this is a test
